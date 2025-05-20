@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - devingineer
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - devingineer/AcademiaMath
+  - devingineer/CS4250-Assignments
+  - BroncoDirectMe/Frontend
+  - LetsMesh/Site
+  - WEB103-PlatePal/WEB103-PlatePal
+  - devingineer/WEB102-FinalProject-GolfGatherHub
+  - devingineer/crypto-api
+  - hazimoarafa/School-Simplified-Website
